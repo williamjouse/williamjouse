@@ -2,17 +2,19 @@
 
 My name is William, and this is my Data science repository.
 
-### 📚 Regarding my Education Background
--  Physics and Cosmology PhD degrees.
--  My career transition into Data Science begins in **September/2022**.
 
-### 💡 Core Competencies 💡
+### 📚 Regarding my Education Background
+- Physicist and Cosmology PhD.
+- My career transition into Data Science begins in **September/2022**.
+
+
+### 💡 Core Competencies
 - Tools: Python, SQL.
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Statistics, and Machine Learning.
 - Scientific writing and research skills.
 
 
-### ⚡️ Currently ⚡️
+### ⚡️ Currently
 - Learning Machine Learning and Deep Learning Concepts.
 - Improving Model Building and Deployment.
 
