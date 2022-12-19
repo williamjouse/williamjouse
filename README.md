@@ -22,7 +22,7 @@ My name is William, and this is my Data science repository.
 
 ### 📫 Useful Links
 - [LinkedIn](https://www.linkedin.com/in/williamjouse/)
-- [E-mail](williamjouse@gmail.com)
+- [E-mail](mailto:williamjouse@gmail.com)
 - [Publications](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20w%20j%20c%20da%20silva)
 
 -----
