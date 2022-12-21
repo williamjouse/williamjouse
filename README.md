@@ -20,7 +20,7 @@ My name is William, and this is my Data science repository.
 ### ⚡️ Currently
 - Brushing up on Machine Learning and Deep Learning Concepts.
 - Improving model building and deployment.
-- Learning Business Rules
+- Learning Business Rules.
 
 
 ### 📫 Useful Links
