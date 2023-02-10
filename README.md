@@ -35,11 +35,11 @@ My name is William, and this is my Data science repository.
 
 ### Projects of exploratory data analysis using pandas, numpy, matplotlib, seaborn and beautiful soup.
 
-- [Progressive rock rankings web scraping](https://github.com/williamjouse/Prog_archives_scraping)
+- [Progressive Rock Rankings Web Scraping](https://github.com/williamjouse/Prog_archives_scraping)
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
 - Analysis of Activities from Garmin Connect Using Python (soon)
-- Uber trips exploration analysis (soon)
-- Spotify playlists features exploration (soon)
+- Uber Trips Exploration Analysis (soon)
+- Spotify Playlists Features Exploration (soon)
 
 ### Projects about Cosmology
 
