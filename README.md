@@ -10,18 +10,15 @@ My name is William, and this is my Data science repository.
 - PhD in Cosmology/UFRN.
 - Career transition into Data Science begins in **September/2022**.
 
-
 ### 💡 Core Competencies
 - Python, SQL.
 - Data cleaning and wrangling, data visualisation, data analysis, statistics.
 - Scientific writing and academic writing skills.
 
-
 ### ⚡️ Currently
 - Brushing up on Machine Learning and Deep Learning Concepts.
 - Improving model building and deployment.
 - Learning Business Rules.
-
 
 ### 📫 Useful Links
 - [LinkedIn](https://www.linkedin.com/in/williamjouse/)
@@ -32,6 +29,21 @@ My name is William, and this is my Data science repository.
 
 ## 💻 Some of my Projects
 
-## (Soon)
+### Statistics and Machine Learning Projects
+
+- Linear Regression (Soon)
+
+### Projects of exploratory data analysis using pandas, numpy, matplotlib, seaborn and beautiful soup.
+
+- [Progressive rock rankings web scraping](https://github.com/williamjouse/Prog_archives_scraping)
+- [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
+- Analysis of Activities from Garmin Connect Using Python (soon)
+- Uber trips exploration analysis (soon)
+- Spotify playlists features exploration (soon)
+
+### Projects about Cosmology
+
+- [Comparison of different integration methods in the statistical analysis of supernova and baryon acoustic oscillations](https://github.com/williamjouse/LCDM)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamjouse&color=blue" alt="gwilliamjouse"/> </p>
