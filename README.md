@@ -27,13 +27,13 @@ My name is William, and this is my Data science repository.
 - [CV](https://github.com/williamjouse/williamjouse/blob/main/Resume_git_William_Jouse.pdf)
 -----
 
-## 💻 Some of my Projects
+## 💻 Projects
 
 ### Statistics and Machine Learning Projects
 
 - Linear Regression (Soon)
 
-### Projects of exploratory data analysis using pandas, numpy, matplotlib, seaborn and beautiful soup.
+### Projects of exploratory data analysis
 
 - [Progressive Rock Rankings Web Scraping](https://github.com/williamjouse/Prog_archives_scraping)
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
