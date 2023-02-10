@@ -31,7 +31,7 @@ My name is William, and this is my Data science repository.
 
 ### Statistics and Machine Learning Projects
 
-- Linear Regression (Soon)
+- Linear Regression (soon)
 
 ### Projects of exploratory data analysis
 
