@@ -31,7 +31,7 @@ My name is William, and this is my Data science repository.
 
 ### Statistics and Machine Learning Projects
 
-- Linear Regression (soon)
+- [Linear Regression](https://github.com/williamjouse/Linear-Regression)
 
 ### Projects of exploratory data analysis
 
