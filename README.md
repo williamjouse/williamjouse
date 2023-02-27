@@ -24,14 +24,13 @@ My name is William, and this is my Data science repository.
 - [LinkedIn](https://www.linkedin.com/in/williamjouse/)
 - [E-mail](mailto:williamjouse@gmail.com)
 - [Publications](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20w%20j%20c%20da%20silva)
-- [CV](https://github.com/williamjouse/williamjouse/blob/main/Resume_git_William_Jouse.pdf)
 -----
 
 ## 💻 Projects
 
 ### Statistics and Machine Learning Projects
 
-- [Linear Regression](https://github.com/williamjouse/Linear-Regression)
+- [Regression Models](https://github.com/williamjouse/Regression-Models)
 
 ### Projects of exploratory data analysis
 
@@ -41,9 +40,9 @@ My name is William, and this is my Data science repository.
 - Uber Trips Exploration Analysis (soon)
 - Spotify Playlists Features Exploration (soon)
 
-### Projects about Cosmology
+### B-sides Projects
 
 - [Comparison of different integration methods in the statistical analysis of supernova and baryon acoustic oscillations](https://github.com/williamjouse/LCDM)
-
+- [Flamengo Matches in 2023](https://github.com/williamjouse/jogos-Flamengo-2023)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamjouse&color=blue" alt="gwilliamjouse"/> </p>
