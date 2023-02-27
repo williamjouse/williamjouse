@@ -1,4 +1,4 @@
-## Hi, there! 😎
+## Hi there! 😎
 
 My name is William, and this is my Data science repository.
 
