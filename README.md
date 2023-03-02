@@ -1,8 +1,7 @@
 ### Hi there! 😎
 
-I'm William Jouse, a Data Scientist enthusiast about how data and Machine Learning techniques can help us solve problems.
+I'm William Jouse, Cosmology PhD and physicist who believes that information, technology, science and education can guide us to solve many available problems. I'm a Data Scientist enthusiast about how data and Machine Learning techniques can help us solve problems.
 
-I am Cosmology PhD and physicist who believes that information, technology, science and education can guide us to solve many available problems.
 
 - 📚 I am currently in a career transition into Data Scientist started in **September/2022**.
 - 💡 Competencies and Skills: Python, SQL, data cleaning and wrangling, data visualisation, data analysis, statistics and scientific writing.
