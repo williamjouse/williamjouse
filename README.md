@@ -16,7 +16,7 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 
 ### Projects of exploratory data analysis
 
-- [Progressive Rock Rankings Web Scraping](https://github.com/williamjouse/Prog_archives_scraping)
+- [Prog Archives Web Scraping and Exploratory Data Analysis](https://github.com/williamjouse/Prog_archives_scraping)
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
 - Analysis of Activities from Garmin Connect Using Python (soon)
 - Uber Trips Exploration Analysis (soon)
