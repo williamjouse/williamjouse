@@ -18,7 +18,7 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 
 - [Prog Archives Web Scraping and Exploratory Data Analysis](https://github.com/williamjouse/Prog_archives_scraping)
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
-- Analysis of Activities from Garmin Connect Using Python (soon)
+- [Analysis of Activities from Garmin Connect Using Python](https://github.com/williamjouse/Garmin_analysis)
 - [Uber Trips Exploration Analysis](https://github.com/williamjouse/Uber_trips_EDA)
 - Spotify Playlists Features Exploration (soon)
 
