@@ -13,6 +13,8 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 ### Statistics and Machine Learning Projects
 
 - [Regression Models](https://github.com/williamjouse/Regression-Models)
+- [Classification Models](Soon)
+- [Clustering Models and Dimension Reduction](Soon)
 
 ### Projects of exploratory data analysis
 
@@ -27,4 +29,5 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 - [Comparison of different integration methods in the statistical analysis of supernova and baryon acoustic oscillations](https://github.com/williamjouse/LCDM)
 - [Flamengo Matches in 2023](https://github.com/williamjouse/jogos-Flamengo-2023)
 
+![](https://hit.yhype.me/github/profile?user_id=41267092)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=williamjouse&color=blue" alt="gwilliamjouse"/> </p>
