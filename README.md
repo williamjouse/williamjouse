@@ -13,7 +13,7 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 ### Statistics and Machine Learning Projects
 
 - [Regression Models](https://github.com/williamjouse/Regression-Models)
-- [Classification Models](Soon)
+- [Classification Models](https://github.com/williamjouse/Classification-models)
 - [Clustering Models and Dimension Reduction](Soon)
 
 ### Projects of exploratory data analysis
@@ -22,7 +22,6 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
 - [Analysis of Activities from Garmin Connect Using Python](https://github.com/williamjouse/Garmin_analysis)
 - [Uber Trips Exploration Analysis](https://github.com/williamjouse/Uber_trips_EDA)
-- Spotify Playlists Features Exploration (soon)
 
 ### B-sides
 
