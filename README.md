@@ -4,7 +4,7 @@ I'm William Jouse, Cosmology PhD and physicist who believes that information, te
 
 
 - 📚 I am currently in a career transition into Data Scientist.
-- 💡 Competencies and Skills: Python, SQL, data cleaning and wrangling, data visualization, data analysis, statistics, and scientific writing.
+- 💡 Competencies and Skills: Python, data cleaning and wrangling, data visualization, data analysis, statistics, and scientific writing.
 - ⚡️ Currently: I am learning Machine Learning techniques.
 - 📫 Useful Links: williamjouse@gmail.com | [LinkedIn](https://www.linkedin.com/in/williamjouse/) | [Publications](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=f%20a%20w%20j%20c%20da%20silva)
 
