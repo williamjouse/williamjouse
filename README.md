@@ -1,6 +1,6 @@
 ### Hi there! 😎
 
-I'm William Jouse, Cosmology PhD and physicist who believes that information, technology, science, and education can guide us to solve many available problems. I'm a Data Scientist enthusiast about how data and Machine Learning techniques can help us solve problems. Some projects in English and Portuguese.
+I'm William Jouse, Cosmology PhD and physicist who believes that information, technology, science, and education can guide us to solve many available problems. I'm a Data Scientist enthusiast about how data and Machine Learning techniques can help us solve problems. Some projects are in English and, others are in Portuguese.
 
 
 - 📚 I am currently in a career transition into Data Scientist.
