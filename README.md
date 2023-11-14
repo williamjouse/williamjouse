@@ -30,7 +30,6 @@ Nesse repositório está documentado os projetos que tenho desevolvidos nos últ
 - [Flamengo Matches in 2023](https://github.com/williamjouse/jogos-Flamengo-2023)
 
 
-### 📫 Links úteis
 <p align='center'>
 <a href="https://twitter.com/williamjouse"><img height="30" src="imagens/twitter.svg"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/williamjouse"><img height="30" src="imagens/instagram.svg"></a>&nbsp;&nbsp;
