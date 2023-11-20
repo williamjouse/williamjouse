@@ -4,10 +4,10 @@ Sou William Jouse, Doutor em Cosmologia e Físico formado pela Universidade Fede
 
 Meu doutorado em Cosmologia foi obtido pela Universidade Federal do Rio Grando do Norte. Meus interesses acadêmicos durante esse período foram [modelos cosmológicos alternativos e análise estatística Bayesiana de modelos cosmológicos](https://repositorio.ufrn.br/bitstream/123456789/29691/1/Vinculosobservacionaismodelos_Silva_2019.pdf). Atualmente tenho me dedicado ao estudo de técnicas de aprendizagem de máquina e análise de dados.
 
-Nesse repositório está documentado os projetos que tenho desevolvidos nos últimos meses. Alguns projetos estão em inglês e outros em português.
+Nesse repositório está documentado os projetos que tenho desevolvido nos últimos meses. Alguns projetos estão em inglês e outros em português.
 
 - 💡 Competências e Habilidade: Python, Análise Exploratória de dados, vizualização de dados, análise de dados, estatística Bayesiana e escrita científica.
-- ⚡️ Atualmente: Aprendendo sobre técnicas de *machine learning*.
+- ⚡️ Aprendendo técnicas de *machine learning*.
 
 ## 💻 Projetos
 
