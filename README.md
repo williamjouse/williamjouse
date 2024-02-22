@@ -27,7 +27,7 @@ Nesse repositório está documentado os projetos que tenho desevolvido nos últi
 ### Lado B
 
 - [Comparison of different integration methods in the statistical analysis of supernova and baryon acoustic oscillations](https://github.com/williamjouse/LCDM)
-- [Flamengo Matches in 2023](https://github.com/williamjouse/jogos-Flamengo-2023)
+- [Flamengo Matches in 2024](https://github.com/williamjouse/jogos-Flamengo-2024)
 
 
 
