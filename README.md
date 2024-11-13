@@ -13,20 +13,15 @@ Nesse repositório está documentado projetos que tenho desevolvido nos últimos
 - [Classification Models](https://github.com/williamjouse/Classification-models)
 - [Clustering Models and Dimension Reduction](Soon)
 
-### Análise exploratória de dados
+
+## 💻 Arquivo
 
 - [Prog Archives Web Scraping and Exploratory Data Analysis](https://github.com/williamjouse/Prog_archives_scraping)
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
 - [Analysis of Activities from Garmin Connect Using Python](https://github.com/williamjouse/Garmin_analysis)
 - [Uber Trips Exploration Analysis](https://github.com/williamjouse/Uber_trips_EDA)
-
-### Lado B
-
 - [Comparison of different integration methods in the statistical analysis of supernova and baryon acoustic oscillations](https://github.com/williamjouse/LCDM)
 - [Flamengo Matches in 2024](https://github.com/williamjouse/jogos-Flamengo-2024)
-
-
-
 
 <p align='center'>
 <a href="https://twitter.com/williamjouse"><img height="30" src="imagens/twitter.svg"></a>&nbsp;&nbsp;
