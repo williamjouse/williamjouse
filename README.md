@@ -14,7 +14,7 @@ Nesse repositório está documentado projetos que tenho desevolvido nos últimos
 - [Clustering Models and Dimension Reduction](Soon)
 
 
-## 💻 Arquivo
+## 📂 Arquivo
 
 - [Prog Archives Web Scraping and Exploratory Data Analysis](https://github.com/williamjouse/Prog_archives_scraping)
 - [Understanding Cities and Federative Units of Brazil](https://github.com/williamjouse/Cities_Brazil)
