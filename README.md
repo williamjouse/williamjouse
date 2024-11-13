@@ -11,7 +11,7 @@ Nesse repositório está documentado projetos que tenho desevolvido nos últimos
 
 - [Regression Models](https://github.com/williamjouse/Regression-Models)
 - [Classification Models](https://github.com/williamjouse/Classification-models)
-- [Clustering Models and Dimension Reduction](Soon)
+- [Flamengo Matches in 2024](https://github.com/williamjouse/jogos-Flamengo-2024)
 
 
 ## 📂 Arquivo
@@ -21,7 +21,7 @@ Nesse repositório está documentado projetos que tenho desevolvido nos últimos
 - [Analysis of Activities from Garmin Connect Using Python](https://github.com/williamjouse/Garmin_analysis)
 - [Uber Trips Exploration Analysis](https://github.com/williamjouse/Uber_trips_EDA)
 - [Comparison of different integration methods in the statistical analysis of supernova and baryon acoustic oscillations](https://github.com/williamjouse/LCDM)
-- [Flamengo Matches in 2024](https://github.com/williamjouse/jogos-Flamengo-2024)
+
 
 <p align='center'>
 <a href="https://twitter.com/williamjouse"><img height="30" src="imagens/twitter.svg"></a>&nbsp;&nbsp;
